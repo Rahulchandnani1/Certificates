@@ -5,8 +5,8 @@ Rahul chandnani
 
 <head></head>
 <body bgcolor="yellow">
- <a href="CNSK15086 CERTIFICATE.pdf"> Notes </a>
-First webpage
+<font  color="yellow"> <a href="https://drive.google.com/drive/folders/18FyyVh08siEgRHKiEzlVXSTmTC3P2E8f?usp=sharing"> Link to access all the pictures </a>
+
 </body>
 </html>
 
