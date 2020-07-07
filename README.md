@@ -13,10 +13,9 @@
 <br><br><a href="1592327474193_Certificate for RAHUL CHANDNANI for 'PATH TO INTERVIEW: APTITUDE...'.pdf" >1 Coding nurture participation certificate</a><br>
 <a href="An Introduction to Artificial Intelligence.jpg" > 2 Nptel AI </a><br>
 <a href="CNSK15086 CERTIFICATE.pdf"> 3 coding nurture (coding)</a><br>
-<a href="Certificate for RAHUL CHANDNANI for "MENTAL ABILITY QUIZ".pdf
-">Mental ability quiz</a><br>
+<a href="Certificate for RAHUL CHANDNANI .pdf">Mental ability quiz</a><br>
 <a href="Certificate for Rahul chandnani for -Stay Safe, Stay Digital-.pd">5 Random</a>
-<a href=""></a>
+<a href="Coursera 8K3MDE2PXZJC.pdf"> 6 Building serverless application</a><br>
 <a href=""></a>
 <a href=""></a>
 <a href=""></a>
