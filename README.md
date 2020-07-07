@@ -15,11 +15,11 @@
 <a href="CNSK15086 CERTIFICATE.pdf"> 3 coding nurture (coding)</a><br>
 <a href="Certificate for RAHUL CHANDNANI for "MENTAL ABILITY QUIZ".pdf
 ">Mental ability quiz</a><br>
+<a href="Certificate for Rahul chandnani for -Stay Safe, Stay Digital-.pd">5 Random</a>
 <a href=""></a>
 <a href=""></a>
 <a href=""></a>
 <a href=""></a>
-v<a href=""></a>
 <a href=""></a>
 <a href=""></a>
 <a href=""></a>
